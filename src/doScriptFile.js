@@ -44,7 +44,7 @@ function getESTKPath( customESTKPaths ) {
 
 	const defaultESTKPathsMac = [
 		'/Applications/Adobe ExtendScript Toolkit CC/ExtendScript Toolkit.app/Contents/MacOS/ExtendScript Toolkit',
-		'/Applications/Utilities/Adobe Utilities - CS6.localized/ExtendScript Toolkit CS6/ExtendScript Toolkit.app/Contents/MacOS/ExtendScript Toolkit'
+		'/Applications/Utilities/Adobe Utilities-CS6.localized/ExtendScript Toolkit CS6/ExtendScript Toolkit.app/Contents/MacOS/ExtendScript Toolkit',
 	]
 
 	const defaultESTKPathsWin = [
